@@ -5,7 +5,7 @@
 - Den innehåller HTML5 märkspråk med grundläggande element.
 - 
 ## *Länkar till de publicerade versionerna*
-* GitHub Pages: https://ahmed-abu-nahida.github.io/dt224g_ahmed_mohamed/
+* GitHub Pages:https://github.com/Ahmed-Abu-Nahida/dt224g_ahmed_mohamed.git
 * Netlify: https://fascinating-cucurucho-59d94a.netlify.app/
   
 ## *Skillnader mellan git add och git commit*
